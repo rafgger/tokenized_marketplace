@@ -8,6 +8,8 @@
 
 ⚙️ Built using NextJS, RainbowKit, Hardhat, Wagmi, Viem, Typescript, and deployed on **Hedera Testnet**.
 
+<img src="https://github.com/user-attachments/assets/c7bca3d8-d420-467f-aa91-f2e0f6d720cf" alt="Web Marketplace" width="500"/>
+
 ## 🌟 Core Features
 
 ### Asset Tokenization
